@@ -2,7 +2,7 @@
 
 ## CSCI 5922 Final Project
 
-### Code structure
+### Structure
 ```
 3D Pose
   │ 
