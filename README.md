@@ -15,14 +15,14 @@
   │    └── Matlab | R
   │          ├── 
   │          ├── 
-  |          ├── 
-  |          └── 
+  │          ├── 
+  │          └── 
   ├── Papers
   │    │ 
   │    ├── 
-  |    ├── 
-  |    ├── 
-  |    └── 
+  │    ├── 
+  │    ├── 
+  │    └──
   ├── Proposal.pdf
   ├── Project Outline.pdf
   └── Final Presentation.pdf
