@@ -7,7 +7,7 @@ dataTypeList = ['TrainSet', 'TestSet', 'ValSet']
 
 for dataType in dataTypeList:
     for dir in os.listdir(directory + dataType):
-        for env in os.listdir(directory + dataType + '/' + dir + 'cam_down/' + 'json/'):
+        for env in os.listdir(directory + dataType + '/' + dir + '/cam_down/' + 'json/'):
             for filename in os.listdir(directory + dataType + '/' + dir):
                 print(filename)
                 f = os.path.join(directory, filename)
