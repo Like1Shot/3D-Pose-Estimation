@@ -2,7 +2,7 @@ import os
 import json 
 import csv
 
-directory = 'xR-Ego-Pose/data/Dataset/' 
+directory = '/home/chpark/Documents/xR-EgoPose/data/Dataset/' 
 dataTypeList = ['TrainSet', 'TestSet', 'ValSet']
 
 for dataType in dataTypeList:
@@ -24,3 +24,4 @@ for dataType in dataTypeList:
                 csv_writer.writerow(joint_data[i])
         
             data_file.close()
+
