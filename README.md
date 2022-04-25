@@ -1,7 +1,7 @@
 # 3D Pose Estimation
 
 ## CSCI 5922 Final Project
-
+This project is built on [xR-EgoPose](https://github.com/facebookresearch/xR-EgoPose) by Facebook research.
 ### Structure
 ```
 3D Pose
